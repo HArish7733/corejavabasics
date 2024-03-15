@@ -12,6 +12,7 @@ public class Executer {
 		c2.setCname("SUNDARI");
 		c2.setAddress("BANGALORE");
 		System.out.println(c2);
+		
 		customer c3=new customer();
 		System.out.println(c3);
 		customer c4=new customer(221,"valarmathi","chennai");
